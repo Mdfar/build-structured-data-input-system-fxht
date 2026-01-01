@@ -1,0 +1,1 @@
+{ "tables": [ { "name": "Mines", "fields": ["Mine Name", "Ownership_JSON", "Primary_Metal", "Location"] }, { "name": "Submissions", "fields": [ "Analyst_ID", "Source_Filing_Link", "Tonnage_Mt", "Grade_gt", "Category_Enum", "Submission_Hash", "Pair_ID", "Status" ] }, { "name": "Version_History", "fields": ["Record_ID", "Updated_By", "Change_Log", "Timestamp"] } ] }
